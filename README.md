@@ -4,6 +4,8 @@
 <img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
 </p>
 
+<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=lileiemq&show_icons=true&hide=stars&count_private=true">
+
 <!-- 
 **lileiemq/lileiemq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
