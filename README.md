@@ -1,10 +1,6 @@
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 super li</h1>
 
 <p align="center">
-<img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
-</p>
-
-<p align="center">
   <img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=lileiemq&show_icons=true&hide=stars&count_private=true">
 </p>
 <!-- 
