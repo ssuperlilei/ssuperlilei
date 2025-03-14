@@ -1,9 +1,9 @@
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 super li</h1>
 
 <!-- 项目链接 -->
-<p align="center">
+<h2 align="center">
   <a href="https://ssuperlilei.github.io/webTemplate/">Link to my project</a>
-</p>
+</h2>
 
 <p align="center">
   <img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=ssuperlilei&show_icons=true&hide=stars&count_private=true">
